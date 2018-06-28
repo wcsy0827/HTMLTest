@@ -1,0 +1,50 @@
+        .table1 {
+
+            border-style: dotted;
+
+            border-color: black;
+        }
+
+        .specialsell {
+            background-color: rgb(222, 215, 250);
+            height: 300px;
+            width: 600px;
+
+        }
+
+        .title1 {
+            text-align: left;
+            font-size: 20px;
+        }
+
+        .pic3 {
+            text-align: center;
+        }
+
+        .label3 {
+            width: 160px;
+            text-align: center;
+            color: orangered;
+            font-size: 25px;
+        }
+
+        #keywords {
+            width: 50px;
+            text-align: center;
+            align-self: center;
+            align-items: center;
+        }
+
+        .pic2 td {
+
+            text-align: center;
+        }
+        .pic2 img{
+             border-radius:50%;
+        }
+
+        body {
+            font-family: Microsoft JhengHei, arial, helvetica, sans-serif;
+            margin: 0%;
+        }
+        
