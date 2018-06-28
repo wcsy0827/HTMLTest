@@ -1,0 +1,28 @@
+[1mdiff --git a/shapee.html b/shapee.html[m
+[1mindex 558c814..99b2ba7 100644[m
+[1m--- a/shapee.html[m
+[1m+++ b/shapee.html[m
+[36m@@ -70,11 +70,11 @@[m
+                         <td id="keywords ">高CP值</td>[m
+                         <td id="keywords ">免運費</td>[m
+                         <td id="keywords ">世界盃</td>[m
+[31m-                        <td id="keywords ">日本隊</td>[m
+[31m-                        <td id="keywords ">西螺</td>[m
+[32m+[m[32m                        <td id="keywords ">日本隊1111</td>[m
+[32m+[m[32m                        <td id="keywords ">西螺111</td>[m
+                         <td id="keywords ">沒溪</td>[m
+[31m-                        <td id="keywords ">暴牙蘇</td>[m
+[31m-                        <td id="keywords ">英格蘭</td>[m
+[32m+[m[32m                        <td id="keywords ">暴牙蘇111</td>[m
+[32m+[m[32m                        <td id="keywords ">英格蘭111</td>[m
+                         <td id="keywords ">法國隊</td>[m
+                         <td id="keywords ">俄羅斯</td>[m
+                         <td style="width:120px "></td>[m
+[36m@@ -198,6 +198,7 @@[m
+                     <td>買貴退5倍</td>[m
+                     <td>噱皮開箱</td>[m
+                     <td>活動總覽</td>[m
+[32m+[m[32m                    <td>活動總覽2222</td>[m
+ [m
+                 </tr>[m
+ [m
